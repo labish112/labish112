@@ -1,52 +1,61 @@
-# 👋 Hi, I'm Labish Roopani
+<h1 align="center">Hi 👋, I'm Labish Roopani</h1>
 
-💻 Software Engineering Student  
-🚀 Aspiring Data Scientist & AI Developer  
-📍 Pakistan  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;Flutter+Developer;Future+Data+Scientist;Building+Cool+Projects&center=true&width=500&height=50">
+</p>
 
 ---
 
-## 🔥 About Me
-- 🎓 Studying at Sukkur IBA
-- 🤖 Working on AI & Machine Learning Projects
-- 📱 Flutter App Developer
-- 🧠 Currently learning DSA + AI
+## 🚀 About Me
+- 🎓 Software Engineering Student at Sukkur IBA  
+- 🤖 Passionate about AI & Machine Learning  
+- 📱 Flutter App Developer  
+- 🧠 Currently learning DSA + AI  
+- 🚀 Building real-world projects  
 
 ---
 
 ## ⚡ Tech Stack
-- 💻 Python | Dart | Flutter  
-- 🔥 Firebase  
-- 🤖 Machine Learning (Basic)  
-- 📊 Data Structures & Algorithms  
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Dart](https://img.shields.io/badge/Dart-blue?logo=dart)
+![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter)
+![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase)
+![Machine Learning](https://img.shields.io/badge/ML-green)
 
 ---
 
 ## 🚀 Projects
-- 🎮 Hangman Game (Python)
-- 🤖 AI Chatbot
-- 👁️ Face Recognition System (SVM)
-- 📦 AI Excel Agent (In Progress)
+
+- 🎮 Hangman Game (Python)  
+- 🤖 AI Chatbot  
+- 👁️ Face Recognition System (SVM)  
+- 📦 AI Excel Agent (In Progress)  
+- 🎯 Gesture Controller (AirPointer)  
 
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=labish112&show_icons=true&theme=tokyonight)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=labish112&theme=tokyonight)
+![Labish's GitHub stats](https://github-readme-stats.vercel.app/api?username=labish112&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=labish112&theme=tokyonight)
 
 ---
 
 ## 🌱 Current Focus
-- AI Agent Development
-- Data Science Journey
-- Building Final Year Project
+
+- 🤖 AI Agent Development  
+- 📊 Data Science Journey  
+- 🚀 Final Year Project  
 
 ---
 
 ## 🤝 Connect With Me
-- 📧 Email: Labeshroopani@gmail.com
+
+- 📧 Email: your-email-here  
 
 ---
 
-✨ “Consistency beats talent when talent doesn’t stay consistent.”
+## ⚡ Fun Fact
+💡 I turn ideas into real-world applications 🚀
