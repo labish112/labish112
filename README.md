@@ -1,27 +1,29 @@
 <h1 align="center">Hi 👋, I'm Labish Roopani</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;Flutter+Developer;Future+Data+Scientist;Building+Cool+Projects&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;Flutter+Developer;Future+Data+Scientist;Building+Scalable+Solutions&center=true&width=500&height=50">
 </p>
 
 ---
 
 ## 🚀 About Me
 - 🎓 Software Engineering Student at Sukkur IBA  
-- 🤖 Passionate about AI & Machine Learning  
-- 📱 Flutter App Developer  
-- 🧠 Currently learning DSA + AI  
-- 🚀 Building real-world projects  
+- 🤖 Passionate about Artificial Intelligence & Machine Learning  
+- 📱 Flutter Application Developer  
+- 🧠 Currently exploring Data Structures, Algorithms, and AI  
+- 🚀 Focused on building impactful real-world solutions  
 
 ---
 
 ## ⚡ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![Dart](https://img.shields.io/badge/Dart-blue?logo=dart)
-![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter)
-![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase)
-![Machine Learning](https://img.shields.io/badge/ML-green)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-4CAF50?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -37,25 +39,28 @@
 
 ## 📊 GitHub Stats
 
-![Labish's GitHub stats](https://github-readme-stats.vercel.app/api?username=labish112&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=labish112&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=labish112&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=labish112&theme=tokyonight" height="160"/>
+</p>
 
 ---
 
 ## 🌱 Current Focus
 
 - 🤖 AI Agent Development  
-- 📊 Data Science Journey  
-- 🚀 Final Year Project  
+- 📊 Advancing in Data Science  
+- 🚀 Final Year Project Development  
 
 ---
 
 ## 🤝 Connect With Me
 
-- 📧 Email: your-email-here  
+<p align="center">
+  📧 your-email-here  
+</p>
 
 ---
 
 ## ⚡ Fun Fact
-💡 I turn ideas into real-world applications 🚀
+💡 I enjoy transforming ideas into practical, real-world applications 🚀
