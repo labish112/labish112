@@ -57,7 +57,7 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  📧 your-email-here  
+  📧 Labeshroopani@gmail.com
 </p>
 
 ---
